@@ -1,0 +1,31 @@
+{
+  "name": "ease-shop",
+  "version": "0.1.0",
+  "description": "Online Shop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-254-Idealist/Ease-shop.git"
+  },
+  "author": "Mathew Nzomo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-254-Idealist/Ease-shop/issues"
+  },
+  "homepage": "https://github.com/The-254-Idealist/Ease-shop#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.14.1",
+    "sequelize": "^6.37.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
